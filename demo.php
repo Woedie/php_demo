@@ -1,1 +1,1 @@
- <?php echo '<p>This should read on the screen.</p>'; ?> 
+ <?php echo '<p>This is not a drill.</p>'; ?> 
